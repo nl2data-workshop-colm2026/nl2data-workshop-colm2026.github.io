@@ -6,7 +6,6 @@ Add organizer headshots here with these exact filenames:
 - lei-cao.jpg
 - jeff-z-pan.jpg
 - vivek-gupta.jpg
-- madelon-hulsebos.jpg
 - xiao-qin.jpg
 
 Recommended:
