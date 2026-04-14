@@ -6,6 +6,8 @@ Add organizer headshots here with these exact filenames:
 - lei-cao.jpg
 - jeff-z-pan.jpg
 - vivek-gupta.jpg
+- madelon-hulsebos.jpg
+- xiao-qin.jpg
 
 Recommended:
 - Square images (e.g., 600x600 or 800x800)
